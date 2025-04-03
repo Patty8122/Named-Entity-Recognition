@@ -37,8 +37,7 @@ The project uses the **WIESP2022 dataset**, which contains astrophysical documen
 
 ## Usage
 
-1. **Prepare the Dataset**:
-    ### Place the WIESP2022 dataset in the appropriate directory (`content/`). The dataset is divided into four components:
+1. **Place the WIESP2022 dataset in the appropriate directory (`content/`). The dataset is divided into four components**
       - Development Dataset: Contains 20 text fragments for model development.
       - Training Dataset: Includes 1,741 text fragments (887 from full-text sections and 854 from acknowledgment sections).
       - Testing Dataset: Contains 2,495 text fragments for evaluation.
